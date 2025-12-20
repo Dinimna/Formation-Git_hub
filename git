@@ -1,0 +1,26 @@
+Méthode de connexion github par ssh
+
+La commande : ssh-keygen -t rsa -b 4096 -C "chogardinimna72@gmail.com "
+
+GIT: C’est un outil qui facilite le travail collaboratif entre plusieurs personnes c’est également un outil qui sert de versionnage.
+
+Commandes de bases de Git
+Git Init : Cette commande permet d’initialiser le repository ;c’est-à-dire l’historique des fichiers sur Git.
+Git Status : Cette commande permet de voir l’état des fichiers sur Git.
+Git add: Cette commande permet de préparer les différents fichiers pour le prochain commit. 
+Git commit : Cette commande permet d’enregistrer les modifications préparées dans Git.
+
+ Notion de branches :
+Git branch : Cette commande permet de voir la liste des branches
+Git branch chogar : permet de créer une brache appelé chogar
+Git checkout (nom de la branche) : Permet de quitter d’une branche a une autre.
+Git merge main/master : Permet de combiner une branche secondaire a la branche principale. 
+Git Hub : C’est une plateforme en ligne qui héberge les dépôts qui Git.
+
+Commandes avec Git hub
+Git Push: Cette commande permet d’envoyer le commit en ligne.
+Git Pull: Permet de récupérer les modifications des autres.
+Git remote add origin : Lie ton dépôt local a GitHub.
+Git Clone : Télécharge un dépôt git sur ton ordinateur.
+
+
