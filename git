@@ -16,6 +16,7 @@ Git branch chogar : permet de créer une brache appelé chogar
 Git checkout (nom de la branche) : Permet de quitter d’une branche a une autre.
 Git merge main/master : Permet de combiner une branche secondaire a la branche principale. 
 Git Hub : C’est une plateforme en ligne qui héberge les dépôts qui Git.
+Git --all : permet de pousser toutes les branches en ligne
 
 Commandes avec Git hub
 Git Push: Cette commande permet d’envoyer le commit en ligne.
