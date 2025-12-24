@@ -1,6 +1,6 @@
 Méthode de connexion github par ssh
 
-La commande : ssh-keygen -t rsa -b 4096 -C "chogardinimna72@gmail.com "
+La commande : ssh-keygen -t rsa -b 4096 -C "chogardinimna72@gmail.com"
 
 GIT: C’est un outil qui facilite le travail collaboratif entre plusieurs personnes c’est également un outil qui sert de versionnage.
 
@@ -23,5 +23,6 @@ Git Push: Cette commande permet d’envoyer le commit en ligne.
 Git Pull: Permet de récupérer les modifications des autres.
 Git remote add origin : Lie ton dépôt local a GitHub.
 Git Clone : Télécharge un dépôt git sur ton ordinateur.
+
 
 
